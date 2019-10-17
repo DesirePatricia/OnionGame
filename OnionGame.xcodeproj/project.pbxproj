@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		26992C3B459F8B2F3BCFC7BE /* Pods_OnionGame.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 24CC265692715C356491173A /* Pods_OnionGame.framework */; };
 		2F15740F22A4143600278E61 /* OnionPeelGameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F15740E22A4143600278E61 /* OnionPeelGameViewController.swift */; };
+		2F442DA52350810B0019EAB7 /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F442DA42350810A0019EAB7 /* MenuViewController.swift */; };
 		2F45FB0522F53E0300D4B90F /* nanopb.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2F45FB0422F53E0300D4B90F /* nanopb.framework */; };
 		2F4E2A4F22EC617D00883B89 /* OnionChopViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F4E2A4E22EC617D00883B89 /* OnionChopViewController.swift */; };
 		2F562ADB23462D0500D079FF /* SwipeRotateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F562ADA23462D0500D079FF /* SwipeRotateViewController.swift */; };
@@ -36,6 +37,7 @@
 /* Begin PBXFileReference section */
 		24CC265692715C356491173A /* Pods_OnionGame.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_OnionGame.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F15740E22A4143600278E61 /* OnionPeelGameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OnionPeelGameViewController.swift; sourceTree = "<group>"; };
+		2F442DA42350810A0019EAB7 /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
 		2F45FB0422F53E0300D4B90F /* nanopb.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = nanopb.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F45FB0622F53E0900D4B90F /* GTMSessionFetcher.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = GTMSessionFetcher.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F45FB0822F53E0F00D4B90F /* GoogleToolboxForMac.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = GoogleToolboxForMac.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -107,6 +109,7 @@
 				2FB231DF22A18A0C0093A900 /* AppDelegate.swift */,
 				2FB231E122A18A0C0093A900 /* art.scnassets */,
 				2FB231E522A18A0C0093A900 /* Main.storyboard */,
+				2F442DA42350810A0019EAB7 /* MenuViewController.swift */,
 				2FDBB0B022D44678003833F6 /* PeelViewController.swift */,
 				2FDBB0B222D44690003833F6 /* RotateViewController.swift */,
 				2F562ADA23462D0500D079FF /* SwipeRotateViewController.swift */,
@@ -303,6 +306,7 @@
 				2F562ADB23462D0500D079FF /* SwipeRotateViewController.swift in Sources */,
 				2FDBB0B122D44678003833F6 /* PeelViewController.swift in Sources */,
 				2F15740F22A4143600278E61 /* OnionPeelGameViewController.swift in Sources */,
+				2F442DA52350810B0019EAB7 /* MenuViewController.swift in Sources */,
 				2FB231E022A18A0C0093A900 /* AppDelegate.swift in Sources */,
 				2F4E2A4F22EC617D00883B89 /* OnionChopViewController.swift in Sources */,
 				2FDBB0B322D44690003833F6 /* RotateViewController.swift in Sources */,
